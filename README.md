@@ -105,16 +105,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AkshayEtukuri&theme=darkhub&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
 ## 🎯 Current Goals
 
 ```python
