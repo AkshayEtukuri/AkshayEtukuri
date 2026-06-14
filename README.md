@@ -18,13 +18,13 @@
 
 ## 🧠 About Me
 
-🎓 **B.Tech in CSE (Networks & Cybersecurity)** — Malla Reddy Institute of Technology & Science, Hyderabad (2024)
+🎓 **B.Tech in CSE (Networks)** — Malla Reddy Institute of Technology & Science, Hyderabad (2024)
 
 🔬 **Published Researcher** — UGC Care Group I Journal | Respiratory Disease Detection using CNN
 
 🤖 Currently deep-diving into **AI/ML** — from classical algorithms to transformers and LLMs
 
-🔐 Passionate about the intersection of **AI + Cybersecurity** — building intelligent defense systems
+🔐 Passionate about the intersection of **AI and Data Science** — building intelligent defense systems
 
 📍 Based in **Hyderabad, India**
 
