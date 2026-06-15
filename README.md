@@ -93,7 +93,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AkshayEtukuri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-https://streak-stats.demolab.com/?user=AkshayEtukuri&theme=tokyonight&hide_border=true
+
 
 </div>
 
