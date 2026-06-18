@@ -18,13 +18,13 @@
 
 ## 🧠 About Me
 
-🎓 **B.Tech in CSE (Networks)** — Malla Reddy Institute of Technology & Science, Hyderabad (2024)
+🎓 **B.Tech in CSE (Networks & Cybersecurity)** — Malla Reddy Institute of Technology & Science, Hyderabad (2024)
 
 🔬 **Published Researcher** — UGC Care Group I Journal | Respiratory Disease Detection using CNN
 
 🤖 Currently deep-diving into **AI/ML** — from classical algorithms to transformers and LLMs
 
-🔐 Passionate about the intersection of **AI and Data Science** — building intelligent defense systems
+🔐 Passionate about the intersection of **AI + Cybersecurity** — building intelligent defense systems
 
 📍 Based in **Hyderabad, India**
 
@@ -57,7 +57,11 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-
+### 🔐 Cybersecurity & Networks
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ### 💻 Development & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -93,13 +97,24 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AkshayEtukuri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayEtukuri&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
 <div align="center">
 
-https://github-readme-streak-stats.herokuapp.com/?user=AkshayEtukuri...
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayEtukuri&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AkshayEtukuri&theme=darkhub&no-frame=true&row=1&column=6" />
+
 </div>
 
 ---
