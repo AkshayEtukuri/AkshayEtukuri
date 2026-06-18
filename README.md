@@ -99,8 +99,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayEtukuri&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-https://streak-stats.demolab.com/?user=AkshayEtukuri&theme=tokyonight&hide_border=true
+https://github-readme-streak-stats.herokuapp.com/?user=AkshayEtukuri...
 </div>
 
 ---
