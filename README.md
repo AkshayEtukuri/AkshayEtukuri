@@ -34,7 +34,7 @@
 
 | Title | Journal | Year |
 |---|---|---|
-| 🫁 **Respiratory Disease Detection using Convolutional Neural Networks** | UGC Care Group I | 2024 |
+| 🫁 **"Respiratory Analysis Detection of Various Lung Infections Using Cough Signal"** | UGC Care Group I | 2024 |
 
 > Applied deep learning for automated detection of respiratory conditions from medical imaging data — demonstrating real-world impact of AI in healthcare.
 
