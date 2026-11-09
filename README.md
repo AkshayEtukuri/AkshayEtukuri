@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-🎓 **B.Tech in CSE (Networks & Cybersecurity)** — Malla Reddy Institute of Technology & Science, Hyderabad (2024)
+🎓 **B.Tech in CSE (Networks)** — Malla Reddy Institute of Technology & Science, Hyderabad (2024)
 
 🔬 **Published Researcher** — UGC Care Group I Journal | Respiratory Disease Detection using CNN
 
